@@ -1,0 +1,15 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"workspaceName": {
+			"value": "rajpal161"
+		},
+		"rajpal161-WorkspaceDefaultSqlServer_connectionString": {
+			"value": ""
+		},
+		"rajpal161-WorkspaceDefaultStorage_properties_typeProperties_url": {
+			"value": "https://rajpal151acc.dfs.core.windows.net"
+		}
+	}
+}
